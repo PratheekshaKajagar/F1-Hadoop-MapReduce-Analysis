@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- LOCAL MODE configuration: Hadoop FileSystem API rooted on the local disk (file:///).
+     For a real cluster use hdfs://localhost:9000 (see docs/HADOOP_SETUP.md). -->
+<configuration>
+  <property><name>fs.defaultFS</name><value>file:///</value></property>
+  <property><name>hadoop.security.authentication</name><value>simple</value></property>
+</configuration>

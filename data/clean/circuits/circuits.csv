@@ -1,0 +1,37 @@
+layoutId,circuitId,circuitRef,name,location,country,lat,lng
+1,1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.850,144.968
+3,3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.032,50.511
+4,4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.570,2.261
+5,5,istanbul,Istanbul Park,Istanbul,Turkey,40.952,29.405
+6,6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.735,7.421
+7,7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.500,-73.523
+9,9,silverstone,Silverstone Circuit,Silverstone,UK,52.079,-1.017
+10,10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.328,8.566
+11,11,hungaroring,Hungaroring,Budapest,Hungary,47.579,19.249
+13,13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.437,5.971
+14,14,monza,Autodromo Nazionale di Monza,Monza,Italy,45.616,9.281
+15,15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,1.291,103.864
+17,17,shanghai,Shanghai International Circuit,Shanghai,China,31.339,121.220
+18,18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.704,-46.700
+20,20,nurburgring,Nürburgring,Nürburg,Germany,50.336,6.947
+21,21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.344,11.717
+22,22,suzuka,Suzuka Circuit,Suzuka,Japan,34.843,136.541
+24,24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.467,54.603
+32,32,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.404,-99.091
+34,34,ricard,Circuit Paul Ricard,Le Castellet,France,43.251,5.792
+39,39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.389,4.541
+69,69,americas,Circuit of the Americas,Austin,USA,30.133,-97.641
+70,70,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.220,14.765
+71,71,sochi,Sochi Autodrom,Sochi,Russia,43.406,39.958
+73,73,baku,Baku City Circuit,Baku,Azerbaijan,40.373,49.853
+75,75,portimao,Autódromo Internacional do Algarve,Portimão,Portugal,37.227,-8.627
+76,76,mugello,Autodromo Internazionale del Mugello,Mugello,Italy,43.998,11.372
+77,77,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.632,39.104
+78,78,losail,Losail International Circuit,Al Daayen,Qatar,25.490,51.454
+79,79,miami,Miami International Autodrome,Miami,USA,25.958,-80.239
+80,80,vegas,Las Vegas Strip Street Circuit,Las Vegas,United States,36.115,-115.173
+1001,1,albert_park,Albert Park Grand Prix Circuit (pre-2022 layout),Melbourne,Australia,-37.850,144.968
+1004,4,catalunya,Circuit de Barcelona-Catalunya (pre-2023 layout (final chicane)),Montmeló,Spain,41.570,2.261
+1015,15,marina_bay,Marina Bay Street Circuit (pre-2023 layout),Marina Bay,Singapore,1.291,103.864
+1024,24,yas_marina,Yas Marina Circuit (pre-2021 layout),Abu Dhabi,UAE,24.467,54.603
+1003,3,bahrain,Bahrain International Circuit (outer layout (2020 Sakhir GP)),Sakhir,Bahrain,26.032,50.511

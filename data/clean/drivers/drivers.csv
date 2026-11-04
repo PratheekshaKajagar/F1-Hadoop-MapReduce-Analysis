@@ -1,0 +1,44 @@
+driverId,driverRef,code,forename,surname,full_name,nationality,dob
+1,hamilton,HAM,Lewis,Hamilton,Lewis Hamilton,British,1985-01-07
+4,alonso,ALO,Fernando,Alonso,Fernando Alonso,Spanish,1981-07-29
+8,raikkonen,RAI,Kimi,Räikkönen,Kimi Räikkönen,Finnish,1979-10-17
+9,kubica,KUB,Robert,Kubica,Robert Kubica,Polish,1984-12-07
+20,vettel,VET,Sebastian,Vettel,Sebastian Vettel,German,1987-07-03
+154,grosjean,GRO,Romain,Grosjean,Romain Grosjean,French,1986-04-17
+842,gasly,GAS,Pierre,Gasly,Pierre Gasly,French,1996-02-07
+807,hulkenberg,HUL,Nico,Hülkenberg,Nico Hülkenberg,German,1987-08-19
+815,perez,PER,Sergio,Pérez,Sergio Pérez,Mexican,1990-01-26
+817,ricciardo,RIC,Daniel,Ricciardo,Daniel Ricciardo,Australian,1989-07-01
+822,bottas,BOT,Valtteri,Bottas,Valtteri Bottas,Finnish,1989-08-28
+825,kevin_magnussen,MAG,Kevin,Magnussen,Kevin Magnussen,Danish,1992-10-05
+826,kvyat,KVY,Daniil,Kvyat,Daniil Kvyat,Russian,1994-04-26
+828,ericsson,ERI,Marcus,Ericsson,Marcus Ericsson,Swedish,1990-09-02
+830,max_verstappen,VER,Max,Verstappen,Max Verstappen,Dutch,1997-09-30
+832,sainz,SAI,Carlos,Sainz,Carlos Sainz,Spanish,1994-09-01
+838,vandoorne,VAN,Stoffel,Vandoorne,Stoffel Vandoorne,Belgian,1992-03-26
+839,ocon,OCO,Esteban,Ocon,Esteban Ocon,French,1996-09-17
+840,stroll,STR,Lance,Stroll,Lance Stroll,Canadian,1998-10-29
+841,giovinazzi,GIO,Antonio,Giovinazzi,Antonio Giovinazzi,Italian,1993-12-14
+843,brendon_hartley,HAR,Brendon,Hartley,Brendon Hartley,New Zealander,1989-11-10
+844,leclerc,LEC,Charles,Leclerc,Charles Leclerc,Monegasque,1997-10-16
+845,sirotkin,SIR,Sergey,Sirotkin,Sergey Sirotkin,Russian,1995-08-27
+846,norris,NOR,Lando,Norris,Lando Norris,British,1999-11-13
+847,russell,RUS,George,Russell,George Russell,British,1998-02-15
+848,albon,ALB,Alexander,Albon,Alexander Albon,Thai,1996-03-23
+849,latifi,LAT,Nicholas,Latifi,Nicholas Latifi,Canadian,1995-06-29
+850,pietro_fittipaldi,FIT,Pietro,Fittipaldi,Pietro Fittipaldi,Brazilian,1996-06-25
+851,aitken,AIT,Jack,Aitken,Jack Aitken,British,1995-09-23
+852,tsunoda,TSU,Yuki,Tsunoda,Yuki Tsunoda,Japanese,2000-05-11
+853,mazepin,MAZ,Nikita,Mazepin,Nikita Mazepin,Russian,1999-03-02
+854,mick_schumacher,MSC,Mick,Schumacher,Mick Schumacher,German,1999-03-22
+855,zhou,ZHO,Guanyu,Zhou,Guanyu Zhou,Chinese,1999-05-30
+856,de_vries,DEV,Nyck,de Vries,Nyck de Vries,Dutch,1995-02-06
+857,piastri,PIA,Oscar,Piastri,Oscar Piastri,Australian,2001-04-06
+858,sargeant,SAR,Logan,Sargeant,Logan Sargeant,American,2000-12-31
+859,lawson,LAW,Liam,Lawson,Liam Lawson,New Zealander,2002-02-11
+860,bearman,BEA,Oliver,Bearman,Oliver Bearman,British,2005-05-08
+861,colapinto,COL,Franco,Colapinto,Franco Colapinto,Argentinian,2003-05-27
+862,doohan,DOO,Jack,Doohan,Jack Doohan,Australian,2003-01-20
+863,antonelli,ANT,Andrea Kimi,Antonelli,Andrea Kimi Antonelli,Italian,2006-08-25
+864,bortoleto,BOR,Gabriel,Bortoleto,Gabriel Bortoleto,Brazilian,2004-10-14
+865,hadjar,HAD,Isack,Hadjar,Isack Hadjar,French,2004-09-28

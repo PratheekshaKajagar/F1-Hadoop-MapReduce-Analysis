@@ -1,0 +1,37 @@
+races,first_year,last_year,avg_rep_lap_sec,fastest_lap_sec,fastest_lap_year,avg_fastest_lap_speed_kmh,pace_spread_pct,dnf_rate_pct,avg_abs_pos_change,grid_finish_corr,avg_winning_margin_sec,pole_win_rate_pct,name,country,label
+8,2018,2025,85.7224,80.901,2025,245.9627,0.803,15.625,3.0597,0.724,5.2604,25.0,Autodromo Nazionale di Monza,Italy,Monza
+5,2021,2025,94.7185,90.734,2021,238.7359,0.9565,17.0,2.4819,0.8256,8.843,60.0,Jeddah Corniche Circuit,Saudi Arabia,Jeddah
+4,2022,2025,84.8314,79.813,2024,232.9483,0.8722,17.7215,3.3651,0.6844,5.991,75.0,Albert Park Grand Prix Circuit,Australia,Albert Park
+9,2018,2025,93.4838,87.097,2020,232.8088,0.8974,16.6667,2.9595,0.732,7.1221,33.3333,Silverstone Circuit,UK,Silverstone
+8,2018,2025,110.773,104.701,2024,230.8861,0.807,10.0,2.6087,0.7597,8.4024,37.5,Circuit de Spa-Francorchamps,Belgium,Spa-Francorchamps
+3,2023,2025,97.8651,93.365,2025,230.0216,0.6839,13.3333,4.1961,0.4629,10.9763,33.3333,Las Vegas Strip Street Circuit,United States,Las Vegas
+4,2021,2025,87.6443,82.384,2024,226.7148,0.9675,15.0,3.0612,0.7362,11.1505,66.6667,Losail International Circuit,Qatar,Losail
+10,2018,2025,70.3536,65.619,2020,225.2398,0.9841,13.0,2.8698,0.7383,8.5651,60.0,Red Bull Ring,Austria,Red Bull Ring
+1,2020,2020,58.4731,55.404,2020,223.3086,0.8229,15.0,4.0,0.6375,10.518,0.0,Bahrain International Circuit (outer layout (2020 Sakhir GP)),Bahrain,Bahrain (2020 outer)
+5,2020,2025,81.2455,75.484,2020,221.1564,0.7938,13.0,3.2824,0.7261,10.2288,40.0,Autodromo Enzo e Dino Ferrari,Italy,Imola
+4,2018,2022,98.6233,92.74,2019,217.2856,1.0137,8.75,2.5139,0.8059,9.6593,75.0,Circuit Paul Ricard,France,Paul Ricard
+2,2018,2019,89.5209,85.58,2019,216.7995,1.1371,20.0,2.4375,0.862,12.961,0.0,Albert Park Grand Prix Circuit (pre-2022 layout),Australia,Albert Park (pre-2022 layout)
+6,2018,2025,97.1243,90.965,2025,215.0139,0.9721,13.3333,2.0583,0.859,14.4455,83.3333,Suzuka Circuit,Japan,Suzuka
+5,2021,2025,90.075,85.637,2024,214.3135,0.7718,9.0,2.7802,0.7199,9.4892,100.0,Yas Marina Circuit,UAE,Yas Marina
+3,2023,2025,80.5689,75.743,2025,213.746,0.8228,3.3898,2.5357,0.7635,9.5933,66.6667,Circuit de Barcelona-Catalunya,Spain,Barcelona
+4,2018,2021,100.8012,95.761,2019,213.206,1.1545,12.5,3.3043,0.6377,16.8435,0.0,Sochi Autodrom,Russia,Sochi
+4,2022,2025,93.2161,89.708,2023,211.7841,0.6921,10.0,2.7286,0.7906,5.353,0.0,Miami International Autodrome,USA,Miami
+2,2018,2019,82.9929,75.545,2018,209.023,1.4918,25.0,5.4667,0.1435,5.934,0.0,Hockenheimring,Germany,Hockenheim
+1,2020,2020,83.4259,78.833,2020,208.0533,0.8955,40.0,3.1667,0.8935,4.88,100.0,Autodromo Internazionale del Mugello,Italy,Mugello
+7,2018,2025,76.3382,70.54,2018,207.4846,0.9617,15.7143,3.3879,0.6277,8.2447,71.4286,Autódromo José Carlos Pace,Brazil,Interlagos
+2,2020,2021,82.9288,78.75,2020,206.2433,0.9616,5.0,2.3421,0.8522,27.37,50.0,Autódromo Internacional do Algarve,Portugal,Portimão
+6,2018,2025,78.3697,73.078,2019,205.1375,1.1579,14.1667,2.9,0.735,4.284,66.6667,Circuit Gilles Villeneuve,Canada,Montreal
+5,2021,2025,76.4185,71.097,2021,204.801,0.9276,9.0,3.1609,0.6508,10.5828,100.0,Circuit Park Zandvoort,Netherlands,Zandvoort
+8,2018,2025,97.5759,92.014,2020,204.32,0.8658,10.625,3.1056,0.7206,7.6524,75.0,Bahrain International Circuit,Bahrain,Bahrain
+1,2020,2020,92.9486,88.139,2020,203.8311,1.0225,25.0,4.1333,0.7472,4.47,0.0,Nürburgring,Germany,Nürburgring
+5,2018,2022,84.8089,78.149,2021,203.65,1.2172,12.0,1.9885,0.8786,15.5514,60.0,Circuit de Barcelona-Catalunya (pre-2023 layout (final chicane)),Spain,Barcelona (pre-2023)
+7,2018,2025,108.0593,103.009,2019,202.6642,0.9168,16.4286,2.991,0.7203,7.6926,28.5714,Baku City Circuit,Azerbaijan,Baku
+4,2018,2025,99.4475,94.742,2019,199.6886,0.8879,11.25,2.6571,0.8154,9.7417,50.0,Shanghai International Circuit,China,Shanghai
+2,2020,2021,98.7193,90.432,2021,198.9053,1.0857,7.5,4.6111,0.504,23.1085,50.0,Istanbul Park,Turkey,Istanbul Park
+7,2018,2025,101.6085,96.169,2019,198.3019,0.9353,15.0,2.8684,0.7362,5.5766,42.8571,Circuit of the Americas,USA,COTA
+3,2018,2020,104.3799,99.283,2019,195.3673,1.1368,11.6667,2.3208,0.8188,11.7763,100.0,Yas Marina Circuit (pre-2021 layout),UAE,Yas Marina (pre-2021 layout)
+8,2018,2025,83.5833,76.627,2020,192.8873,0.9309,10.625,3.1007,0.724,11.3451,25.0,Hungaroring,Hungary,Hungaroring
+7,2018,2025,83.0267,77.774,2021,190.3944,1.0529,12.8571,2.8167,0.7854,14.2467,42.8571,Autódromo Hermanos Rodríguez,Mexico,Mexico City
+3,2023,2025,98.8502,93.808,2025,182.7158,0.7107,8.3333,2.9815,0.7327,9.0623,100.0,Marina Bay Street Circuit,Singapore,Marina Bay
+3,2018,2022,110.6916,101.905,2018,169.1845,1.3015,16.6667,2.6735,0.777,4.7323,33.3333,Marina Bay Street Circuit (pre-2023 layout),Singapore,Marina Bay (pre-2023 layout)
+7,2018,2025,78.3271,72.909,2021,156.9309,0.9378,12.1429,1.9837,0.8787,8.3234,71.4286,Circuit de Monaco,Monaco,Monaco

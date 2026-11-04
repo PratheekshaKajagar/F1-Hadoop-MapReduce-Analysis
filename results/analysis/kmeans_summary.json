@@ -1,0 +1,23 @@
+{
+ "k": 3,
+ "silhouette": {
+  "2": 0.3747240420070652,
+  "3": 0.3385161018276517,
+  "4": 0.29879015436056966,
+  "5": 0.2772090508369644,
+  "6": 0.24028894967420364,
+  "7": 0.23678281758052705,
+  "8": 0.24533375783261013
+ },
+ "features": [
+  "avg_finish_all",
+  "avg_rel_pace_pct",
+  "consistency_cv_pct",
+  "win_rate",
+  "podium_rate",
+  "laps_led_per_race",
+  "avg_qual_pos",
+  "avg_gain_vs_grid"
+ ],
+ "n_drivers": 25
+}

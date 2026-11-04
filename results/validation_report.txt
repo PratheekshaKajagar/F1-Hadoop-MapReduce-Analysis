@@ -1,0 +1,29 @@
+[PASS] Job1 total laps per driver                                     max|diff| = 0.000000  (n=43)
+[PASS] Job1 laps led per driver                                       max|diff| = 0.000000  (n=43)
+[PASS] Job1 fastest lap per driver                                    max|diff| = 0.000000  (n=43)
+[PASS] Job1 slowest lap per driver                                    max|diff| = 0.000000  (n=43)
+       total laps in Job1 output = 189105  vs cleaned laps.csv rows = 189105
+[PASS] Job2 career points per team (GP+sprint)                        max|diff| = 0.000000  (n=10)
+[PASS] Job2 career wins per team                                      max|diff| = 0.000000  (n=10)
+[PASS] Job2 career podiums per team                                   max|diff| = 0.000000  (n=10)
+[PASS] Job2 avg grid per team                                         max|diff| = 0.000045  (n=10)
+[PASS] Job4 avg finish (all entries) per driver                       max|diff| = 0.000049  (n=43)
+[PASS] Job4 avg positions gained per driver                           max|diff| = 0.000048  (n=43)
+[PASS] Job4 avg qualifying position per driver                        max|diff| = 0.000047  (n=43)
+[PASS] Job4 avg (qualifying - finish) per driver                      max|diff| = 0.000050  (n=43)
+[PASS] Job2 not-classified count per team                             max|diff| = 0.000000  (n=10)
+[PASS] Job2 avg classified finish per team                            max|diff| = 0.000046  (n=10)
+       Job4 global grid-vs-finish Pearson r = 0.7383  (pandas: 0.7383)
+[PASS] Job4 global correlation                                        max|diff| = 0.000029  (n=1)
+[PASS] Job5 total pit stops per team                                  max|diff| = 0.000000  (n=10)
+[PASS] Job5 valid stop count per team                                 max|diff| = 0.000000  (n=10)
+[PASS] Job5 mean valid stop time per team                             max|diff| = 0.000050  (n=10)
+[PASS] Job5 fastest stop per team                                     max|diff| = 0.000000  (n=10)
+       Job5 FIELD total stops=5941 (cleaned pitstops.csv rows=5941), valid=5565
+       Job6 official final standings vs (Job6 GP points + Job2 sprint points), 80 team-seasons:
+          MISMATCH 2018 Aston Martin (Force India): official 52 vs computed 111  (diff -59)
+          MISMATCH 2020 Aston Martin (Force India): official 195 vs computed 210  (diff -15)
+          -> expected exactly 2 mismatches = real FIA penalties: Force India 2018 (-59, team restructured mid-season) and Racing Point 2020 (-15, brake-duct case)
+[PASS] Job6+Job2 reproduce official standings points (all but 2 penalised team-seasons) max|diff| = 0.000000  (n=1)
+
+OVERALL: ALL CHECKS PASSED

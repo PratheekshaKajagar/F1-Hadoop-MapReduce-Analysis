@@ -1,0 +1,17 @@
+constructorId,constructorRef,name,nationality,team_group
+1,mclaren,McLaren,British,McLaren
+3,williams,Williams,British,Williams
+4,renault,Renault,French,Alpine (Renault)
+5,toro_rosso,Toro Rosso,Italian,RB (Toro Rosso/AlphaTauri)
+6,ferrari,Ferrari,Italian,Ferrari
+9,red_bull,Red Bull,Austrian,Red Bull
+10,force_india,Force India,Indian,Aston Martin (Force India)
+15,sauber,Sauber,Swiss,Sauber (Alfa Romeo)
+51,alfa,Alfa Romeo,Swiss,Sauber (Alfa Romeo)
+117,aston_martin,Aston Martin,British,Aston Martin (Force India)
+131,mercedes,Mercedes,German,Mercedes
+210,haas,Haas F1 Team,American,Haas
+211,racing_point,Racing Point,British,Aston Martin (Force India)
+213,alphatauri,AlphaTauri,Italian,RB (Toro Rosso/AlphaTauri)
+214,alpine,Alpine F1 Team,French,Alpine (Renault)
+215,rb,RB F1 Team,Italian,RB (Toro Rosso/AlphaTauri)

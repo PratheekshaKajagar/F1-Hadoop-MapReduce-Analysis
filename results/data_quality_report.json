@@ -1,0 +1,81 @@
+{
+  "season_range": [
+    2018,
+    2025
+  ],
+  "tables": {
+    "races": {
+      "raw_rows": 1172,
+      "clean_rows": 173,
+      "missing_dates": 0
+    },
+    "circuits": {
+      "clean_rows": 36,
+      "layout_variants": 5
+    },
+    "results": {
+      "raw_rows_all_years": 27634,
+      "rows_in_scope": 3458,
+      "duplicates_removed": 0,
+      "clean_rows": 3458,
+      "grid_missing_kept_blank": 20,
+      "pit_lane_starts_grid0": 70,
+      "not_classified": 456,
+      "position_rule": "classified <=> positionText is numeric (2025 source fills position for retirees)",
+      "fastest_speed_missing": 613
+    },
+    "sprint_results": {
+      "clean_rows": 480
+    },
+    "drivers": {
+      "clean_rows": 43
+    },
+    "constructors": {
+      "clean_rows": 16,
+      "lineage_groups": 10
+    },
+    "qualifying": {
+      "rows_in_scope": 3455,
+      "clean_rows": 3455,
+      "q2_missing_eliminated_in_Q1": 906,
+      "q3_missing": 1769,
+      "note": "missing Q2/Q3 are structural (driver eliminated) -> NOT imputed"
+    },
+    "laps": {
+      "raw_rows_all_years": 886544,
+      "rows_in_scope": 189105,
+      "duplicates_removed": 0,
+      "string_vs_ms_mismatches": 0,
+      "clean_rows": 189105,
+      "races_covered": 173,
+      "min_sec": 55.404,
+      "max_sec": 3204.155
+    },
+    "pitstops": {
+      "ms_null_filled_from_duration_string": 0,
+      "ms_vs_duration_disagreements": 0,
+      "rows_in_scope": 5941,
+      "clean_rows": 5941,
+      "races_without_pit_data": [
+        1063
+      ],
+      "note": "durations are pit-LANE time; red-flag stops (minutes long) are kept raw and filtered inside Hadoop job"
+    },
+    "driver_standings": {
+      "position_missing": 7,
+      "clean_rows": 3594
+    },
+    "constructor_standings": {
+      "position_missing": 0,
+      "clean_rows": 1730
+    }
+  },
+  "integrity_checks": {
+    "results.raceId in races": true,
+    "results.driverId in drivers": true,
+    "results.constructorId in constructors": true,
+    "laps.driverId in drivers": true,
+    "pitstops.driverId in drivers": true,
+    "qualifying.driverId in drivers": true
+  }
+}

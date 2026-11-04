@@ -1,0 +1,4 @@
+cluster,avg_finish_all,avg_rel_pace_pct,consistency_cv_pct,win_rate,podium_rate,laps_led_per_race,avg_qual_pos,avg_gain_vs_grid,n_drivers,members
+1,4.57,-1.22,1.36,32.15,58.24,16.8,4.36,1.14,2,"HAM, VER"
+2,8.26,-0.44,1.35,5.63,25.3,4.27,7.69,0.54,8,"BOT, LEC, NOR, PER, PIA, RUS, SAI, VET"
+3,12.89,0.45,1.38,0.32,2.33,0.24,13.16,1.07,15,"ALB, ALO, GAS, GIO, GRO, HUL, LAT, MAG, MSC, OCO, RAI, RIC, STR, TSU, ZHO"

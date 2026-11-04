@@ -1,0 +1,766 @@
+{
+  "best_avg_finish": [
+    {
+      "full_name": "Max Verstappen",
+      "avg_finish_all": 4.19,
+      "avg_finish_classified": 2.66,
+      "race_starts": 173
+    },
+    {
+      "full_name": "Lewis Hamilton",
+      "avg_finish_all": 4.94,
+      "avg_finish_classified": 4.1,
+      "race_starts": 172
+    },
+    {
+      "full_name": "Oscar Piastri",
+      "avg_finish_all": 6.63,
+      "avg_finish_classified": 5.65,
+      "race_starts": 70
+    },
+    {
+      "full_name": "Lando Norris",
+      "avg_finish_all": 7.28,
+      "avg_finish_classified": 6.49,
+      "race_starts": 152
+    },
+    {
+      "full_name": "Charles Leclerc",
+      "avg_finish_all": 7.45,
+      "avg_finish_classified": 5.42,
+      "race_starts": 173
+    }
+  ],
+  "fastest_pace": [
+    {
+      "full_name": "Max Verstappen",
+      "avg_rel_pace_pct": -1.326
+    },
+    {
+      "full_name": "Lewis Hamilton",
+      "avg_rel_pace_pct": -1.106
+    },
+    {
+      "full_name": "Oscar Piastri",
+      "avg_rel_pace_pct": -0.754
+    },
+    {
+      "full_name": "Charles Leclerc",
+      "avg_rel_pace_pct": -0.639
+    },
+    {
+      "full_name": "Sebastian Vettel",
+      "avg_rel_pace_pct": -0.512
+    }
+  ],
+  "most_consistent": [
+    {
+      "full_name": "Charles Leclerc",
+      "consistency_cv_pct": 1.26
+    },
+    {
+      "full_name": "Esteban Ocon",
+      "consistency_cv_pct": 1.288
+    },
+    {
+      "full_name": "Yuki Tsunoda",
+      "consistency_cv_pct": 1.301
+    },
+    {
+      "full_name": "Nico H\u00fclkenberg",
+      "consistency_cv_pct": 1.327
+    },
+    {
+      "full_name": "Valtteri Bottas",
+      "consistency_cv_pct": 1.336
+    }
+  ],
+  "least_consistent": [
+    {
+      "full_name": "Antonio Giovinazzi",
+      "consistency_cv_pct": 1.465
+    },
+    {
+      "full_name": "Romain Grosjean",
+      "consistency_cv_pct": 1.458
+    },
+    {
+      "full_name": "Kimi R\u00e4ikk\u00f6nen",
+      "consistency_cv_pct": 1.426
+    }
+  ],
+  "pace_vs_consistency_corr": 0.252,
+  "consistency_cv_range": [
+    1.26,
+    1.465
+  ],
+  "laps_led_top": [
+    {
+      "full_name": "Max Verstappen",
+      "laps_led": 3697,
+      "share_pct": 35.7
+    },
+    {
+      "full_name": "Lewis Hamilton",
+      "laps_led": 1971,
+      "share_pct": 19.0
+    },
+    {
+      "full_name": "Charles Leclerc",
+      "laps_led": 878,
+      "share_pct": 8.5
+    },
+    {
+      "full_name": "Lando Norris",
+      "laps_led": 705,
+      "share_pct": 6.8
+    },
+    {
+      "full_name": "Oscar Piastri",
+      "laps_led": 576,
+      "share_pct": 5.6
+    }
+  ],
+  "laps_led_total": 10367,
+  "total_laps_processed": 189105,
+  "drivers_who_led_laps": 20,
+  "constructor_points": [
+    {
+      "team": "Mercedes",
+      "points_total": 4441.5,
+      "wins": 55,
+      "podiums": 156,
+      "poles": 56,
+      "avg_finish_classified": 4.45,
+      "avg_grid": 4.99,
+      "points_per_race": 25.67
+    },
+    {
+      "team": "Red Bull",
+      "points_total": 4399.5,
+      "wins": 75,
+      "podiums": 149,
+      "poles": 53,
+      "avg_finish_classified": 4.75,
+      "avg_grid": 5.98,
+      "points_per_race": 25.43
+    },
+    {
+      "team": "Ferrari",
+      "points_total": 3539.5,
+      "wins": 19,
+      "podiums": 109,
+      "poles": 41,
+      "avg_finish_classified": 5.24,
+      "avg_grid": 5.81,
+      "points_per_race": 20.46
+    },
+    {
+      "team": "McLaren",
+      "points_total": 2644.0,
+      "wins": 21,
+      "podiums": 73,
+      "poles": 21,
+      "avg_finish_classified": 7.37,
+      "avg_grid": 8.25,
+      "points_per_race": 15.28
+    },
+    {
+      "team": "Aston Martin (Force India)",
+      "points_total": 989.0,
+      "wins": 1,
+      "podiums": 14,
+      "poles": 1,
+      "avg_finish_classified": 10.17,
+      "avg_grid": 11.66,
+      "points_per_race": 5.72
+    },
+    {
+      "team": "Alpine (Renault)",
+      "points_total": 929.0,
+      "wins": 1,
+      "podiums": 9,
+      "poles": 0,
+      "avg_finish_classified": 10.29,
+      "avg_grid": 11.4,
+      "points_per_race": 5.37
+    },
+    {
+      "team": "RB (Toro Rosso/AlphaTauri)",
+      "points_total": 565.0,
+      "wins": 1,
+      "podiums": 5,
+      "poles": 0,
+      "avg_finish_classified": 11.48,
+      "avg_grid": 12.2,
+      "points_per_race": 3.27
+    },
+    {
+      "team": "Haas",
+      "points_total": 310.0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "avg_finish_classified": 13.25,
+      "avg_grid": 13.73,
+      "points_per_race": 1.79
+    },
+    {
+      "team": "Sauber (Alfa Romeo)",
+      "points_total": 271.0,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 0,
+      "avg_finish_classified": 12.88,
+      "avg_grid": 14.36,
+      "points_per_race": 1.57
+    },
+    {
+      "team": "Williams",
+      "points_total": 221.0,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 0,
+      "avg_finish_classified": 13.79,
+      "avg_grid": 15.26,
+      "points_per_race": 1.28
+    }
+  ],
+  "constructor_champions": {
+    "2018": "Mercedes",
+    "2019": "Mercedes",
+    "2020": "Mercedes",
+    "2021": "Mercedes",
+    "2022": "Red Bull",
+    "2023": "Red Bull",
+    "2024": "McLaren",
+    "2025": "McLaren"
+  },
+  "circuits_shortest_lap": [
+    {
+      "label": "Red Bull Ring",
+      "avg_rep_lap_sec": 70.35
+    },
+    {
+      "label": "Interlagos",
+      "avg_rep_lap_sec": 76.34
+    },
+    {
+      "label": "Zandvoort",
+      "avg_rep_lap_sec": 76.42
+    }
+  ],
+  "circuits_fastest_speed": [
+    {
+      "label": "Monza",
+      "speed": 246.0
+    },
+    {
+      "label": "Jeddah",
+      "speed": 238.7
+    },
+    {
+      "label": "Albert Park",
+      "speed": 232.9
+    }
+  ],
+  "circuits_slowest_speed": [
+    {
+      "label": "Monaco",
+      "speed": 156.9
+    },
+    {
+      "label": "Marina Bay (pre-2023 layout)",
+      "speed": 169.2
+    },
+    {
+      "label": "Marina Bay",
+      "speed": 182.7
+    }
+  ],
+  "circuits_largest_spread": [
+    {
+      "label": "Barcelona (pre-2023)",
+      "pace_spread_pct": 1.22
+    },
+    {
+      "label": "Montreal",
+      "pace_spread_pct": 1.16
+    },
+    {
+      "label": "Sochi",
+      "pace_spread_pct": 1.15
+    }
+  ],
+  "circuits_smallest_spread": [
+    {
+      "label": "Miami",
+      "pace_spread_pct": 0.69
+    },
+    {
+      "label": "Yas Marina",
+      "pace_spread_pct": 0.77
+    },
+    {
+      "label": "Imola",
+      "pace_spread_pct": 0.79
+    }
+  ],
+  "circuits_grid_matters_most": [
+    {
+      "label": "Monaco",
+      "grid_finish_corr": 0.879
+    },
+    {
+      "label": "Barcelona (pre-2023)",
+      "grid_finish_corr": 0.879
+    },
+    {
+      "label": "Suzuka",
+      "grid_finish_corr": 0.859
+    }
+  ],
+  "circuits_grid_matters_least": [
+    {
+      "label": "Interlagos",
+      "grid_finish_corr": 0.628
+    },
+    {
+      "label": "Sochi",
+      "grid_finish_corr": 0.638
+    },
+    {
+      "label": "Zandvoort",
+      "grid_finish_corr": 0.651
+    }
+  ],
+  "circuits_highest_dnf": [
+    {
+      "label": "Albert Park",
+      "dnf_rate_pct": 17.7
+    },
+    {
+      "label": "Jeddah",
+      "dnf_rate_pct": 17.0
+    },
+    {
+      "label": "Silverstone",
+      "dnf_rate_pct": 16.7
+    }
+  ],
+  "circuits_biggest_win_margin": [
+    {
+      "label": "Sochi",
+      "avg_winning_margin_sec": 16.8
+    },
+    {
+      "label": "Barcelona (pre-2023)",
+      "avg_winning_margin_sec": 15.6
+    },
+    {
+      "label": "Suzuka",
+      "avg_winning_margin_sec": 14.4
+    }
+  ],
+  "grid_finish_corr": 0.738,
+  "pct_gained": 52.8,
+  "pct_lost": 29.8,
+  "pct_same": 17.4,
+  "pole_to_win_pct": 52.3,
+  "avg_finish_by_slot": [
+    {
+      "slot": 1,
+      "avg_finish_classified": 2.04
+    },
+    {
+      "slot": 2,
+      "avg_finish_classified": 3.36
+    },
+    {
+      "slot": 3,
+      "avg_finish_classified": 3.82
+    },
+    {
+      "slot": 5,
+      "avg_finish_classified": 6.08
+    },
+    {
+      "slot": 10,
+      "avg_finish_classified": 9.87
+    },
+    {
+      "slot": 15,
+      "avg_finish_classified": 12.5
+    },
+    {
+      "slot": 20,
+      "avg_finish_classified": 14.02
+    }
+  ],
+  "top_gainers": [
+    {
+      "full_name": "Lance Stroll",
+      "avg_gain_vs_grid": 2.26,
+      "avg_grid": 13.67,
+      "pct_gained": 65.52
+    },
+    {
+      "full_name": "Nicholas Latifi",
+      "avg_gain_vs_grid": 1.84,
+      "avg_grid": 17.24,
+      "pct_gained": 66.0
+    },
+    {
+      "full_name": "Esteban Ocon",
+      "avg_gain_vs_grid": 1.79,
+      "avg_grid": 11.77,
+      "pct_gained": 63.11
+    },
+    {
+      "full_name": "Guanyu Zhou",
+      "avg_gain_vs_grid": 1.75,
+      "avg_grid": 15.71,
+      "pct_gained": 67.27
+    },
+    {
+      "full_name": "Kimi R\u00e4ikk\u00f6nen",
+      "avg_gain_vs_grid": 1.7,
+      "avg_grid": 11.28,
+      "pct_gained": 66.67
+    }
+  ],
+  "top_losers": [
+    {
+      "full_name": "Romain Grosjean",
+      "avg_gain_vs_grid": -0.32,
+      "avg_grid": 12.15,
+      "pct_gained": 37.5
+    },
+    {
+      "full_name": "Lando Norris",
+      "avg_gain_vs_grid": -0.06,
+      "avg_grid": 6.61,
+      "pct_gained": 41.13
+    },
+    {
+      "full_name": "Kevin Magnussen",
+      "avg_gain_vs_grid": 0.0,
+      "avg_grid": 13.25,
+      "pct_gained": 54.55
+    },
+    {
+      "full_name": "Oscar Piastri",
+      "avg_gain_vs_grid": 0.02,
+      "avg_grid": 5.99,
+      "pct_gained": 39.06
+    }
+  ],
+  "quali_vs_grid_penalty_avg": -0.046,
+  "pit_field": {
+    "avg_sec": 24.69,
+    "median_sec": 23.57,
+    "n_stops": 5941,
+    "n_valid": 5565,
+    "fastest_sec": 12.8
+  },
+  "pit_ranking": [
+    {
+      "team": "Red Bull",
+      "avg_sec": 23.96,
+      "median_sec": 22.98,
+      "std_sec": 4.2,
+      "fastest_sec": 12.94,
+      "slow_stop_pct": 1.03,
+      "avg_rel_pct": 1.18,
+      "n_valid": 582
+    },
+    {
+      "team": "Mercedes",
+      "avg_sec": 24.07,
+      "median_sec": 23.16,
+      "std_sec": 4.6,
+      "fastest_sec": 13.67,
+      "slow_stop_pct": 1.03,
+      "avg_rel_pct": 1.86,
+      "n_valid": 581
+    },
+    {
+      "team": "Ferrari",
+      "avg_sec": 24.2,
+      "median_sec": 23.33,
+      "std_sec": 4.36,
+      "fastest_sec": 14.01,
+      "slow_stop_pct": 1.47,
+      "avg_rel_pct": 2.35,
+      "n_valid": 546
+    },
+    {
+      "team": "Alpine (Renault)",
+      "avg_sec": 24.5,
+      "median_sec": 23.69,
+      "std_sec": 4.67,
+      "fastest_sec": 14.04,
+      "slow_stop_pct": 2.17,
+      "avg_rel_pct": 3.3,
+      "n_valid": 506
+    },
+    {
+      "team": "McLaren",
+      "avg_sec": 24.65,
+      "median_sec": 23.47,
+      "std_sec": 5.23,
+      "fastest_sec": 12.8,
+      "slow_stop_pct": 2.7,
+      "avg_rel_pct": 4.27,
+      "n_valid": 555
+    },
+    {
+      "team": "Aston Martin (Force India)",
+      "avg_sec": 24.69,
+      "median_sec": 23.59,
+      "std_sec": 5.06,
+      "fastest_sec": 14.12,
+      "slow_stop_pct": 2.37,
+      "avg_rel_pct": 3.71,
+      "n_valid": 548
+    },
+    {
+      "team": "RB (Toro Rosso/AlphaTauri)",
+      "avg_sec": 24.87,
+      "median_sec": 23.49,
+      "std_sec": 5.48,
+      "fastest_sec": 13.6,
+      "slow_stop_pct": 4.94,
+      "avg_rel_pct": 5.0,
+      "n_valid": 547
+    },
+    {
+      "team": "Williams",
+      "avg_sec": 25.0,
+      "median_sec": 23.8,
+      "std_sec": 5.14,
+      "fastest_sec": 14.11,
+      "slow_stop_pct": 2.94,
+      "avg_rel_pct": 5.67,
+      "n_valid": 579
+    },
+    {
+      "team": "Sauber (Alfa Romeo)",
+      "avg_sec": 25.46,
+      "median_sec": 23.98,
+      "std_sec": 6.38,
+      "fastest_sec": 14.13,
+      "slow_stop_pct": 4.86,
+      "avg_rel_pct": 7.86,
+      "n_valid": 555
+    },
+    {
+      "team": "Haas",
+      "avg_sec": 25.55,
+      "median_sec": 24.14,
+      "std_sec": 5.57,
+      "fastest_sec": 14.14,
+      "slow_stop_pct": 3.89,
+      "avg_rel_pct": 7.62,
+      "n_valid": 566
+    }
+  ],
+  "pit_field_by_year": [
+    {
+      "year": 2018,
+      "avg_sec": 24.67,
+      "median_sec": 23.65,
+      "fastest_sec": 15.0,
+      "n_valid": 536
+    },
+    {
+      "year": 2019,
+      "avg_sec": 24.87,
+      "median_sec": 23.52,
+      "fastest_sec": 15.07,
+      "n_valid": 649
+    },
+    {
+      "year": 2020,
+      "avg_sec": 25.36,
+      "median_sec": 24.17,
+      "fastest_sec": 16.36,
+      "n_valid": 532
+    },
+    {
+      "year": 2021,
+      "avg_sec": 25.29,
+      "median_sec": 23.68,
+      "fastest_sec": 14.88,
+      "n_valid": 693
+    },
+    {
+      "year": 2022,
+      "avg_sec": 24.63,
+      "median_sec": 23.69,
+      "fastest_sec": 13.97,
+      "n_valid": 752
+    },
+    {
+      "year": 2023,
+      "avg_sec": 24.8,
+      "median_sec": 23.67,
+      "fastest_sec": 16.25,
+      "n_valid": 809
+    },
+    {
+      "year": 2024,
+      "avg_sec": 24.89,
+      "median_sec": 23.33,
+      "fastest_sec": 15.79,
+      "n_valid": 773
+    },
+    {
+      "year": 2025,
+      "avg_sec": 23.39,
+      "median_sec": 23.12,
+      "fastest_sec": 12.8,
+      "n_valid": 821
+    }
+  ],
+  "lap_index": {
+    "2018": 100.0,
+    "2019": 100.12,
+    "2020": 99.28,
+    "2021": 100.25,
+    "2022": 101.84,
+    "2023": 101.01,
+    "2024": 100.26,
+    "2025": 99.74
+  },
+  "lap_index_layouts": 18,
+  "champion_team_share_pct": {
+    "2018": 31.8,
+    "2019": 34.5,
+    "2020": 33.3,
+    "2021": 27.8,
+    "2022": 32.3,
+    "2023": 35.0,
+    "2024": 25.0,
+    "2025": 31.6
+  },
+  "champion_points_gap_to_P2": {
+    "2018": 84.0,
+    "2019": 235.0,
+    "2020": 254.0,
+    "2021": 28.0,
+    "2022": 205.0,
+    "2023": 451.0,
+    "2024": 14.0,
+    "2025": 364.0
+  },
+  "driver_champions": {
+    "2019": {
+      "driver": "Lewis Hamilton",
+      "points": 413.0,
+      "wins": 11
+    },
+    "2020": {
+      "driver": "Lewis Hamilton",
+      "points": 347.0,
+      "wins": 11
+    },
+    "2022": {
+      "driver": "Max Verstappen",
+      "points": 454.0,
+      "wins": 15
+    },
+    "2024": {
+      "driver": "Max Verstappen",
+      "points": 437.0,
+      "wins": 9
+    },
+    "2025": {
+      "driver": "Lando Norris",
+      "points": 423.0,
+      "wins": 7
+    },
+    "2018": {
+      "driver": "Lewis Hamilton",
+      "points": 408.0,
+      "wins": 11
+    },
+    "2021": {
+      "driver": "Max Verstappen",
+      "points": 395.5,
+      "wins": 10
+    },
+    "2023": {
+      "driver": "Max Verstappen",
+      "points": 575.0,
+      "wins": 19
+    }
+  },
+  "season_summary": [
+    {
+      "year": 2018,
+      "races": 21,
+      "distinct_winners": 5,
+      "distinct_winning_teams": 3,
+      "not_classified_pct": 19.0
+    },
+    {
+      "year": 2019,
+      "races": 21,
+      "distinct_winners": 5,
+      "distinct_winning_teams": 3,
+      "not_classified_pct": 11.9
+    },
+    {
+      "year": 2020,
+      "races": 17,
+      "distinct_winners": 5,
+      "distinct_winning_teams": 4,
+      "not_classified_pct": 15.6
+    },
+    {
+      "year": 2021,
+      "races": 22,
+      "distinct_winners": 6,
+      "distinct_winning_teams": 4,
+      "not_classified_pct": 11.8
+    },
+    {
+      "year": 2022,
+      "races": 22,
+      "distinct_winners": 5,
+      "distinct_winning_teams": 3,
+      "not_classified_pct": 14.5
+    },
+    {
+      "year": 2023,
+      "races": 22,
+      "distinct_winners": 3,
+      "distinct_winning_teams": 2,
+      "not_classified_pct": 12.3
+    },
+    {
+      "year": 2024,
+      "races": 24,
+      "distinct_winners": 7,
+      "distinct_winning_teams": 4,
+      "not_classified_pct": 10.0
+    },
+    {
+      "year": 2025,
+      "races": 24,
+      "distinct_winners": 4,
+      "distinct_winning_teams": 3,
+      "not_classified_pct": 11.5
+    }
+  ],
+  "races_unusable_for_pace": [
+    1063
+  ],
+  "mapreduce_scale": {
+    "races": 173,
+    "laps": 189105,
+    "pit_stops": 5941,
+    "drivers": 43
+  }
+}
